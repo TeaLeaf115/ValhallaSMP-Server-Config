@@ -78,34 +78,34 @@ This has all the config files for the Valhalla SMP
 <details>
 <summary>List of all the Severs Mods</summary>
 -   Carpet
-	- [https://www.curseforge.com/minecraft/mc-mods/carpet]
-	- [https://github.com/gnembon/fabric-carpet/wiki]
-	- [https://www.youtube.com/watch?v=Lt-ooRGpLz4]
+	- https://www.curseforge.com/minecraft/mc-mods/carpet<br>
+	- https://github.com/gnembon/fabric-carpet/wiki<br>
+	- https://www.youtube.com/watch?v=Lt-ooRGpLz4<br>
 	- Check Below for more Information
 
 
 -   Carpet Extra
-	- [https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files]
-	- [https://github.com/gnembon/carpet-extra]
+	- https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files
+	- https://github.com/gnembon/carpet-extra
 	- Check Below for more Information
 
 
 - Couplings
-	- [https://www.curseforge.com/minecraft/mc-mods/couplings]
+	- https://www.curseforge.com/minecraft/mc-mods/couplings
 	- Allows doors and stacked fencegates to open simltaniously.
 
 
 -   Fabric API
-	-   [https://www.curseforge.com/minecraft/mc-mods/fabric-api]
+	-   https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
 
 - Fast Furnace
-	-   [https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric]
+	-   [https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric
 	-   Makes furnaces more server-friendly.
 
 
 -   Lithium
-	-   [https://www.curseforge.com/minecraft/mc-mods/lithium]
+	-   [https://www.curseforge.com/minecraft/mc-mods/lithium
 	-   All around fixes Minecraft's systems.
 
 
