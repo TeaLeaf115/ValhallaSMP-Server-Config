@@ -5,6 +5,7 @@ This has all the config files for the Valhalla SMP
 ## Datapacks from (Vanilla Tweaks - Datapacks/Crafting Tweaks)
 >[Vanilla Tweaks - Datapacks](https://vanillatweaks.net/picker/datapacks/ "Datapacks")<br>
 >[Vanilla Tweaks - Crafting Tweaks](https://vanillatweaks.net/picker/crafting-tweaks/ "Crafting Tweaks")
+<details>
 <summary>
 - AFK Display
 	- Gray’s out the player's name if not moving for more than 5 minutes.
@@ -67,3 +68,4 @@ This has all the config files for the Valhalla SMP
 - Unlock All Recipes
 	- Automatically unlocks all the recipes in-game.
 </summary>
+</details>
