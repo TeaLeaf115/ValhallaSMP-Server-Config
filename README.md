@@ -77,7 +77,8 @@ This has all the config files for the Valhalla SMP
 ## Mod List
 <details>
 <summary>List of all the Severs Mods</summary>
--   Carpet
+
+- Carpet
 	- https://www.curseforge.com/minecraft/mc-mods/carpet<br>
 	- https://github.com/gnembon/fabric-carpet/wiki<br>
 	- https://www.youtube.com/watch?v=Lt-ooRGpLz4<br>
@@ -100,12 +101,12 @@ This has all the config files for the Valhalla SMP
 
 
 - Fast Furnace
-	-   [https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric
+	-   https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric
 	-   Makes furnaces more server-friendly.
 
 
 -   Lithium
-	-   [https://www.curseforge.com/minecraft/mc-mods/lithium
+	-   https://www.curseforge.com/minecraft/mc-mods/lithium
 	-   All around fixes Minecraft's systems.
 
 
