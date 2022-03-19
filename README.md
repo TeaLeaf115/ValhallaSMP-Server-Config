@@ -78,15 +78,15 @@ This has all the config files for the Valhalla SMP
 <details>
 <summary>List of all the Severs Mods</summary>
 -   Carpet
-	-   [https://www.curseforge.com/minecraft/mc-mods/carpet]
-	-   [https://github.com/gnembon/fabric-carpet/wiki]
-	-   [https://www.youtube.com/watch?v=Lt-ooRGpLz4]
+	- [https://www.curseforge.com/minecraft/mc-mods/carpet]
+	- [https://github.com/gnembon/fabric-carpet/wiki]
+	- [https://www.youtube.com/watch?v=Lt-ooRGpLz4]
 	- Check Below for more Information
 
 
 -   Carpet Extra
-	-   [https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files]
-	-   [https://github.com/gnembon/carpet-extra]
+	- [https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files]
+	- [https://github.com/gnembon/carpet-extra]
 	- Check Below for more Information
 
 
