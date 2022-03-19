@@ -68,3 +68,7 @@ This has all the config files for the Valhalla SMP
 - Unlock All Recipes
 	- Automatically unlocks all the recipes in-game.
 </details>
+
+<details>
+<summary>List of the Crafting Tweaks</summary>
+</details>
