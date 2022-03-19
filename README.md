@@ -76,13 +76,70 @@ This has all the config files for the Valhalla SMP
 
 ## Mod List
 <details>
-<summary></summary>
+<summary>List of all the Severs Mods</summary>
+-   Carpet
+	-   [https://www.curseforge.com/minecraft/mc-mods/carpet]
+	-   [https://github.com/gnembon/fabric-carpet/wiki]
+	-   [https://www.youtube.com/watch?v=Lt-ooRGpLz4]
+	- Check Below for more Information
+
+
+-   Carpet Extra
+	-   [https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files]
+	-   [https://github.com/gnembon/carpet-extra]
+	- Check Below for more Information
+
+
+- Couplings
+	- [https://www.curseforge.com/minecraft/mc-mods/couplings]
+	- Allows doors and stacked fencegates to open simltaniously.
+
+
+-   Fabric API
+	-   [https://www.curseforge.com/minecraft/mc-mods/fabric-api]
+
+
+- Fast Furnace
+	-   [https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric]
+	-   Makes furnaces more server-friendly.
+
+
+-   Lithium
+	-   [https://www.curseforge.com/minecraft/mc-mods/lithium]
+	-   All around fixes Minecraft's systems.
+
+
+-   Starlight
+	-   [https://www.curseforge.com/minecraft/mc-mods/starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
+	-   Reworks Minecraft's Lighting Engine.
+
+
+-   Krypton
+	-   [https://www.curseforge.com/minecraft/mc-mods/krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
+	-   Optimizes Network Stacking
+
+
+-   FerriteCore
+	-   [https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
+	-   [https://github.com/malte0811/FerriteCore/blob/main/summary.md](https://github.com/malte0811/FerriteCore/blob/main/summary.md)
+	-   Reduces the memory usage needed.
+
+
+- Servux
+	- [https://www.curseforge.com/minecraft/mc-mods/servux](https://www.curseforge.com/minecraft/mc-mods/servux)
+	- Provides extra support/features for some client-side mods when playing on a server.
+
+
+- Essential Commands
+	- [https://www.curseforge.com/minecraft/mc-mods/essential-commands](https://www.curseforge.com/minecraft/mc-mods/essential-commands)
+	- [https://github.com/John-Paul-R/Essential-Commands/wiki](https://github.com/John-Paul-R/Essential-Commands/wiki)
+	- Adds teleportation Commands (Check Below for more Information)
 </details>
 
 ### Carpet Configs
 >[Full List of Carpet Mod Features](https://github.com/gnembon/fabric-carpet/wiki)
 <details>
-<summary>List of features on the server</summary>
+<summary>List of Carpet features on the server</summary>
 -   silverFishDropGravel
 	-   When Silverfish come out of a block it drops gravel
 	
@@ -192,4 +249,11 @@ This has all the config files for the Valhalla SMP
 	
 -   creeperSpawningInJungleTemples
 	-   Only creepers can spawn in Jungle temples.
+</details>
+
+
+### Essential Commands Information
+<details>
+<summary>All Teleport Commands that are enabled.</summary>
+
 </details>
