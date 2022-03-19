@@ -82,7 +82,7 @@ This has all the config files for the Valhalla SMP
 ### Carpet Configs
 >[Full List of Carpet Mod Features](https://github.com/gnembon/fabric-carpet/wiki)
 <details>
-<summary>List of features</summary>
+<summary>List of features on the server</summary>
 -   silverFishDropGravel
 	-   When Silverfish come out of a block it drops gravel
 	
