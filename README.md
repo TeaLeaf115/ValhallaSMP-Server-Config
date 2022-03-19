@@ -71,6 +71,7 @@ This has all the config files for the Valhalla SMP
 
 <details>
 <summary>List of the Crafting Tweaks</summary>
+
 ![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
 </details>
 
