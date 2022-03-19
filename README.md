@@ -74,13 +74,13 @@ This has all the config files for the Valhalla SMP
 </details>
 
 
-##Mod List
+## Mod List
 <details>
 <summary></summary>
 </details>
 
-###Carpet Configs
->aha
+### Carpet Configs
+>[Full List of Carpet Mod Features](https://github.com/gnembon/fabric-carpet/wiki)
 <details>
 <summary>List of features</summary>
 -   silverFishDropGravel
