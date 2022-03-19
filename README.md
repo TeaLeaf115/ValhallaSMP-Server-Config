@@ -73,18 +73,17 @@ This has all the config files for the Valhalla SMP
 <summary>List of the Crafting Tweaks</summary>
 
 ![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
-</details>
-![Double Slabs](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/double%20slabs.png?v2)
-</details>
-![Dropper to Dispenser](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/dropper%20to%20dispenser.png?v2)
-</details>
-![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
-</details>
-![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
-</details>
-![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
-</details>
 
+![Double Slabs](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/double%20slabs.png?v2)
+
+![Dropper to Dispenser](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/dropper%20to%20dispenser.png?v2)
+
+![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+
+![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+
+![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+</details>
 
 ## Mod List
 <details>
