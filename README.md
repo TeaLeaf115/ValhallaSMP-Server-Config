@@ -132,33 +132,45 @@ Stairs now craft into 8 instead of 4.
 ![More Bricks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/more%20bricks.png?v2)<br>
 Bricks now craft into 4 instead of 1.
 
-#### Charcoal to Black Dye:
-![Charcoal to Black Dye](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/sporeBlossomCraftingPNG.PNG)<br>
-Allows you to turn charcoal into black dye.
+#### Craftable Gravel:
+![Craftable Gravel](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20gravel.png?v2)<br>
+Allows you to craft gravel.
 
-#### Coal to Black Dye:
-![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/coal%20to%20black%20dye.png?v2)<br>
-Allows you to turn coal into black dye.
+#### Craftable Coral:
+![Craftable Coral](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20coral%20blocks%202x2.png?v2)<br>
+Allows you to craft coral blocks.
 
-#### Sandstone Dyeing:
-![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/sandstone%20dyeing.png?v2)<br>
-Allows you to dye regular sandstone red to get red sandstone.
+#### Craftable Nametags:
+![Craftable Nametags](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20name%20tags.png?v2)<br>
+Allows you to craft nametags.
 
-#### Universal Dyeing:
-![Universal Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/universal%20dyeing.png?v2)<br>
-Allows you to dye any block any color, not matter what color it already is. **(NOT INCLUDING WOOL OR CONCRETE)**
+#### Craftable Blackstone:
+![Craftable Blackstone](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20blackstone.png?v2)<br>
+Allows you to craft blackstone.
 
-#### Straight to Shapeless
-![Straight to Shapeless](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/straight%20to%20shapeless.png?v2)<br>
-Allows you to craft items like paper, bread, and shulker boxes in a 2x2 grid.
+#### Craftable Bundles
+![Craftable Bundles](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20bundles%20rabbit%20hide.png?v2)<br>
+Allows you to craft bundles.
 
-#### Blackstone Cobblestone:
-![Blackstone Cobblestone](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/blackstone%20cobblestone.png?v2)<br>
-Allows you to craft any item that requires cobblestone using blackstone.
+#### Craftale Sculk Sensors:
+![Craftale Sculk Sensors](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/sculkSensorCrafting.PNG)<br>
+Allows you to craft sculk sensors.
 
-#### Powder to Glass:
-![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)<br>
-Allows you to smelt conctete powder into it's colored glass form.
+#### Craftale Spore Blossoms:
+![Craftale Spore Blossoms](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/sporeBlossomCraftingPNG.PNG)<br>
+Allows you to craft spore Blossoms.
+
+#### Unpacked Ice
+![Unpacked Ice](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/unpackable%20ice.png?v2)<br>
+You can now break down 1 blue ice into 9 packed ice, and 1 packed ice into 9 regular ice.
+
+#### Unpacked Nether Wart:
+![Unpacked Nether Wart](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/unpackable%20nether%20wart.png?v2)<br>
+You can break down nether wart blocks into 9 nether wart.
+
+#### Unpacked Wool:
+![Unpacked Wool](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/unpackable%20wool.png?v2)<br>
+You can unpack wool to get 4 string.
 
 </details>
 
