@@ -2,9 +2,11 @@
 This has all the config files for the Valhalla SMP
 
 
-## Datapacks from (Vanilla Tweaks - Datapacks/Crafting Tweaks)
+## Datapacks
 >[Vanilla Tweaks - Datapacks](https://vanillatweaks.net/picker/datapacks/ "Datapacks")<br>
 >[Vanilla Tweaks - Crafting Tweaks](https://vanillatweaks.net/picker/crafting-tweaks/ "Crafting Tweaks")
+>[Voodoobeard - Datapacks](http://mc.voodoobeard.com/#datapacks "Voodoobeard Datapacks")
+
 <details>
 <summary>List of all the Datapacks</summary>
 - AFK Display
@@ -67,6 +69,13 @@ This has all the config files for the Valhalla SMP
    
 - Unlock All Recipes
 	- Automatically unlocks all the recipes in-game.
+	
+- Chicken Shedding
+	- Chickens periodically shed some feathers.
+	
+- Extra Dragon Eggs
+	- The dragon drops an egg every time now when it dies.
+
 </details>
 
 <details>
@@ -356,5 +365,32 @@ You can unpack wool to get 4 string.
 ### Essential Commands Information
 <details>
 <summary>All Teleport Commands that are enabled.</summary>
+
+#### TPA COMMANDS
+- /tpa <player>
+	- Request to teleport to a player.
+
+- /tpahere <player>
+	- Request that a player teleports to you.
+
+- /tpaccept <player>
+	- Accept player's teleport request.
+
+- /tpdeny <player>
+	- Deny Player's teleport request.
+
+#### HOME COMMANDS
+- /home set <home_name>
+	- Set a personal home location.
+
+- /home tp <home_name>
+	- Teleport to your home.
+
+
+- /home delete <home_name>
+	- Delete your home.
+#### SPAWN COMMANDS
+- **/spawn** or **/spawn tp**
+	- Teleport to the server spawn.
 
 </details>
