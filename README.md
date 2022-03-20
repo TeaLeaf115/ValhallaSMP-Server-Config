@@ -73,55 +73,55 @@ This has all the config files for the Valhalla SMP
 <summary>List of the Crafting Tweaks</summary>
 
 #### Back to Blocks:
-![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+![Back to Blocks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)<br>
 Allows you to create full blocks from stairs and slabs.
 
 #### Double Slabs:
-![Double Slabs](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/double%20slabs.png?v2)
+![Double Slabs](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/double%20slabs.png?v2)<br>
 Allows you to craft 2 slabs from a single block.
 
 #### Dropper to Dispenser:
-![Dropper to Dispenser](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/dropper%20to%20dispenser.png?v2)
+![Dropper to Dispenser](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/dropper%20to%20dispenser.png?v2)<br>
 Allows you to craft dispensers from droppers.
 
 #### Rotten Flesh to Leather:
-![Rotten Flesh to Leather](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/rotten%20flesh%20to%20leather.png?v2)
+![Rotten Flesh to Leather](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/rotten%20flesh%20to%20leather.png?v2)<br>
 Allows you to smelt rotten flesh in a furnace or campfire to get leather.
 
 #### Charcoal to Black Dye:
-![Charcoal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/charcoal%20to%20black%20dye.png?v2)
+![Charcoal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/charcoal%20to%20black%20dye.png?v2)<br>
 Allows you to turn charcoal into black dye.
 
 #### Coal to Black Dye:
-![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/coal%20to%20black%20dye.png?v2)
+![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/coal%20to%20black%20dye.png?v2)<br>
 Allows you to turn coal into black dye.
 
 #### Sandstone Dyeing:
-![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/sandstone%20dyeing.png?v2)
+![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/sandstone%20dyeing.png?v2)<br>
 Allows you to dye regular sandstone red to get red sandstone.
 
 #### Universal Dyeing:
-![Universal Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/universal%20dyeing.png?v2)
+![Universal Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/universal%20dyeing.png?v2)<br>
 Allows you to dye any block any color, not matter what color it already is. **NOT INCLUDING WOOL OR CONCRETE)**
 
 #### Straight to Shapeless
-![Straight to Shapeless](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/straight%20to%20shapeless.png?v2)
+![Straight to Shapeless](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/straight%20to%20shapeless.png?v2)<br>
 Allows you to craft items like paper, bread, and shulker boxes in a 2x2 grid.
 
 #### Blackstone Cobblestone:
-![Blackstone Cobblestone](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/blackstone%20cobblestone.png?v2)
+![Blackstone Cobblestone](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/blackstone%20cobblestone.png?v2)<br>
 Allows you to craft any item that requires cobblestone using blackstone.
 
 #### Powder to Glass:
-![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)
+![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)<br>
 Allows you to smelt conctete powder into it's colored glass form.
 
 #### Coal to Black Dye:
-![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)<br>
 Allows you to turn coal into black dye.
 
 #### Sandstone Dyeing:
-![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)
+![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)<br>
 Allows you to dye regular sandstone red to get red sandstone.
 </details>
 
