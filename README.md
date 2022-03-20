@@ -133,7 +133,7 @@ Stairs now craft into 8 instead of 4.
 Bricks now craft into 4 instead of 1.
 
 #### Charcoal to Black Dye:
-![Charcoal to Black Dye](Server configs/world/datapacks/sporeBlossomCraftingPNG.PNG)<br>
+![Charcoal to Black Dye](/Server configs/world/datapacks/sporeBlossomCraftingPNG.PNG)<br>
 Allows you to turn charcoal into black dye.
 
 #### Coal to Black Dye:
