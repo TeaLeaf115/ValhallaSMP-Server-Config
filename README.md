@@ -133,7 +133,7 @@ Stairs now craft into 8 instead of 4.
 Bricks now craft into 4 instead of 1.
 
 #### Charcoal to Black Dye:
-![Charcoal to Black Dye](https://imgur.com/a/7FvtmGe)<br>
+![Charcoal to Black Dye](https://photos.app.goo.gl/hvqZRjFU4i38j9e37)<br>
 Allows you to turn charcoal into black dye.
 
 #### Coal to Black Dye:
@@ -159,6 +159,8 @@ Allows you to craft any item that requires cobblestone using blackstone.
 #### Powder to Glass:
 ![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)<br>
 Allows you to smelt conctete powder into it's colored glass form.
+
+</details>
 
 ## Mod List
 <details>
