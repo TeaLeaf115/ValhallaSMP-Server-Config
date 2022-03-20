@@ -152,11 +152,11 @@ Allows you to craft blackstone.
 ![Craftable Bundles](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/craftable%20bundles%20rabbit%20hide.png?v2)<br>
 Allows you to craft bundles.
 
-#### Craftale Sculk Sensors:
-![Craftale Sculk Sensors](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/sculkSensorCrafting.PNG)<br>
+#### Craftable Sculk Sensors:
+![Craftale Sculk Sensors](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/SculkSensorCrafting.PNG)<br>
 Allows you to craft sculk sensors.
 
-#### Craftale Spore Blossoms:
+#### Craftable Spore Blossoms:
 ![Craftale Spore Blossoms](https://github.com/TeaLeaf115/ValhallaSMP-Server-Config/blob/main/Server%20configs/world/datapacks/sporeBlossomCraftingPNG.PNG)<br>
 Allows you to craft spore Blossoms.
 
