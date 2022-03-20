@@ -133,7 +133,7 @@ Stairs now craft into 8 instead of 4.
 Bricks now craft into 4 instead of 1.
 
 #### Charcoal to Black Dye:
-![Charcoal to Black Dye](https://drive.google.com/file/d/1REVUHHkE2NcaVIELtZrzUWVtLXe2NVtu/view?usp=sharing)<br>
+![Charcoal to Black Dye](https://imgur.com/a/7FvtmGe)<br>
 Allows you to turn charcoal into black dye.
 
 #### Coal to Black Dye:
