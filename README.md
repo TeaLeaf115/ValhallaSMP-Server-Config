@@ -102,7 +102,7 @@ Allows you to dye regular sandstone red to get red sandstone.
 
 #### Universal Dyeing:
 ![Universal Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/universal%20dyeing.png?v2)<br>
-Allows you to dye any block any color, not matter what color it already is. **NOT INCLUDING WOOL OR CONCRETE)**
+Allows you to dye any block any color, not matter what color it already is. **(NOT INCLUDING WOOL OR CONCRETE)**
 
 #### Straight to Shapeless
 ![Straight to Shapeless](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/straight%20to%20shapeless.png?v2)<br>
@@ -116,14 +116,49 @@ Allows you to craft any item that requires cobblestone using blackstone.
 ![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)<br>
 Allows you to smelt conctete powder into it's colored glass form.
 
+#### More Trapdoors:
+![More Trapdoors](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/more%20trapdoors.png?v2)<br>
+Trapdoors now craft into 12 instead of 3.
+
+#### More Bark:
+![More Bark](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/more%20bark.png?v2)<br>
+Bark blocks now craft into 4 instead of 3.
+
+#### More Stairs:
+![More Stairs](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/more%20stairs.png?v2)<br>
+Stairs now craft into 8 instead of 4.
+
+#### More Bricks:
+![More Bricks](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/more%20bricks.png?v2)<br>
+Bricks now craft into 4 instead of 1.
+
+#### Charcoal to Black Dye:
+![Charcoal to Black Dye](https://drive.google.com/file/d/1REVUHHkE2NcaVIELtZrzUWVtLXe2NVtu/view?usp=sharing)<br>
+Allows you to turn charcoal into black dye.
+
 #### Coal to Black Dye:
-![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)<br>
+![Coal to Black Dye](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/coal%20to%20black%20dye.png?v2)<br>
 Allows you to turn coal into black dye.
 
 #### Sandstone Dyeing:
-![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/back%20to%20blocks.png?v2)<br>
+![Sand Stone Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/sandstone%20dyeing.png?v2)<br>
 Allows you to dye regular sandstone red to get red sandstone.
-</details>
+
+#### Universal Dyeing:
+![Universal Dyeing](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/universal%20dyeing.png?v2)<br>
+Allows you to dye any block any color, not matter what color it already is. **(NOT INCLUDING WOOL OR CONCRETE)**
+
+#### Straight to Shapeless
+![Straight to Shapeless](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/straight%20to%20shapeless.png?v2)<br>
+Allows you to craft items like paper, bread, and shulker boxes in a 2x2 grid.
+
+#### Blackstone Cobblestone:
+![Blackstone Cobblestone](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/blackstone%20cobblestone.png?v2)<br>
+Allows you to craft any item that requires cobblestone using blackstone.
+
+#### Powder to Glass:
+![Powder to Glass](https://vanillatweaks.net/assets/resources/previews/craftingtweaks/1.18/powder%20to%20glass.png?v2)<br>
+Allows you to smelt conctete powder into it's colored glass form.
 
 ## Mod List
 <details>
