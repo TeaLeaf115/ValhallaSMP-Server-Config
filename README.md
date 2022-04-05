@@ -75,6 +75,9 @@ This has all the config files for the Valhalla SMP
 	
 - Extra Dragon Eggs
 	- The dragon drops an egg every time now when it dies.
+	
+- Wandering Trader Mini-Blocks
+	- The Wandering Trader will now trade you a random selection of miniature-sized blocks.
 
 </details>
 
